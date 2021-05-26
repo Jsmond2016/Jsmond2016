@@ -6,7 +6,6 @@ JavaScript & Typescript & Node.js
 
 Go learner...
 
-Blog: [黄同学](https://jsmond.gitee.io/blog)
 
 
 
