@@ -2,7 +2,7 @@
 
 Development
 
-JavaScript & Typescript & Node.js
+JavaScript & TypeScript & Node.js
 
 Go learner...
 
