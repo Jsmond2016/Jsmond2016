@@ -4,7 +4,6 @@ Development
 
 JavaScript & TypeScript & Node.js
 
-Go learner...
 
 
 
